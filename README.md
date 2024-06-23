@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-## Discord 
-<a href='https://discord.gg/GwfuNjpcPX'>![Discord Banner]([https://discordapp.com/api/guilds/1188394982655135764/widget.png?style=banner2])</a>
+# Support
+<a href='https://discord.gg/7WAMEPKe5s'>![Discord](https://discordapp.com/api/guilds/1188394982655135764/widget.png?style=banner2)</a>
 
 
 ## Github
