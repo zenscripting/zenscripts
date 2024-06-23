@@ -7,3 +7,7 @@
 
 ## Github
 ![Kuban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KubanScripts&show_icons=true&theme=dark)
+
+<!-- 
+Credit to wasabirobby for this code :}
+--!>
